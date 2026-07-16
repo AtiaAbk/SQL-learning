@@ -988,6 +988,9 @@ Bangladesh Army University of Engineering & Technology (BAUET)
 If you found this repository helpful, please consider giving it a ⭐ on GitHub. Your support motivates me to create more open-source learning resources.
 
 ---
+## 🙏 Credits
+
+Notes compiled from **CodeWithHarry's Ultimate MySQL Handbook**, restructured here as a personal Git reference for learning and revision.
 
 ## 📄 License
 
