@@ -910,9 +910,6 @@ ALTER TABLE users MODIFY COLUMN salary BIGINT;
 
 ---
 
-## 🙏 Credits
-
-Notes compiled from **CodeWithHarry's Ultimate MySQL Handbook**, restructured here as a personal Git reference for learning and revision.
 
 ## 📄 License
 
