@@ -909,8 +909,89 @@ ALTER TABLE users MODIFY COLUMN salary BIGINT;
 | Transactions | `SET autocommit`, `COMMIT`, `ROLLBACK` |
 
 ---
+---
 
+# 🎓 Recommended Learning Resources
+
+If you want to master MySQL from beginner to advanced, I highly recommend the following free resources.
+
+## 📺 YouTube Courses
+
+### 🟢 Beginner
+- 🎥 Bro Code – MySQL Full Course  
+  https://youtu.be/5OdVJbNCSso
+
+- 🎥 Programming with Mosh – SQL Tutorial for Beginners  
+  https://youtu.be/7S_tz1z_5bA
+
+- 🎥 freeCodeCamp – SQL Full Database Course (4+ Hours)  
+  https://youtu.be/HXV3zeQKqGY
+
+### 🟡 Intermediate
+- 🎥 Hussein Nasser – Database Engineering Playlist  
+  https://www.youtube.com/@hnasr
+
+- 🎥 ByteByteGo – Database & System Design  
+  https://www.youtube.com/@ByteByteGo
+
+- 🎥 TechTFQ – Advanced SQL Playlist  
+  https://www.youtube.com/@TechTFQ
+
+### 🔴 Advanced
+- 🎥 CMU Database Systems (15-445)
+  https://www.youtube.com/@CMUDatabaseGroup
+
+- 🎥 Neso Academy – DBMS Playlist
+  https://www.youtube.com/@nesoacademy
+
+---
+
+## 💻 SQL Practice Platforms
+
+- HackerRank SQL  
+  https://www.hackerrank.com/domains/sql
+
+- LeetCode Database Problems  
+  https://leetcode.com/problemset/database/
+
+- SQLBolt  
+  https://sqlbolt.com/
+
+- SQLZoo  
+  https://sqlzoo.net/
+
+- StrataScratch  
+  https://www.stratascratch.com/
+
+---
+
+## 📚 Recommended Books
+
+- Learning SQL — Alan Beaulieu
+- SQL Cookbook — Anthony Molinaro
+- High Performance MySQL
+- Database System Concepts
+- Designing Data-Intensive Applications
+
+---
+
+# 👨‍💻 Author
+
+**Atia Sanjida Oishi**
+
+🎓 Information & Communication Engineering (ICE)  
+Bangladesh Army University of Engineering & Technology (BAUET)
+
+- 🌐 GitHub: https://github.com/AtiaAbk
+- 💼 LinkedIn: *(Add your LinkedIn profile here)*
+
+If you found this repository helpful, please consider giving it a ⭐ on GitHub. Your support motivates me to create more open-source learning resources.
+
+---
 
 ## 📄 License
 
-Feel free to use this repository for personal learning and reference.
+This project is intended for educational purposes. Feel free to use, modify, and share it for learning and personal projects.
+
+⭐ **If this repository helped you, don't forget to star it!**
+
