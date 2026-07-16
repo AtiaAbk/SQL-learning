@@ -990,7 +990,7 @@ If you found this repository helpful, please consider giving it a ⭐ on GitHub.
 ---
 ## 🙏 Credits
 
-Notes compiled from **CodeWithHarry's Ultimate MySQL Handbook**, restructured here as a personal Git reference for learning and revision.
+Notes compiled from **CodeWithHarry's Ultimate MySQL Notebook**, restructured here as a personal Git reference for learning and revision.
 
 ## 📄 License
 
