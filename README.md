@@ -32,7 +32,9 @@
 21. [Stored Procedures](#21-stored-procedures)
 22. [Triggers](#22-triggers)
 23. [More Useful MySQL Features](#23-more-useful-mysql-features)
-
+24. [🎓 Recommended Learning Resources](#-recommended-learning-resources)
+25. [👨‍💻 Author](#-author)
+26. [📄 License](#-license)
 ---
 
 ## 1. Installing MySQL
