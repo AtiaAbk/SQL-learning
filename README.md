@@ -983,7 +983,7 @@ If you want to master MySQL from beginner to advanced, I highly recommend the fo
 Bangladesh Army University of Engineering & Technology (BAUET)
 
 - 🌐 GitHub: https://github.com/AtiaAbk
-- 💼 LinkedIn: *(Add your LinkedIn profile here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/atia-sanjida-085947233/
 
 If you found this repository helpful, please consider giving it a ⭐ on GitHub. Your support motivates me to create more open-source learning resources.
 
