@@ -79,7 +79,7 @@ sudo mysql
 
 ```sql
 CREATE USER 'harry'@'localhost' IDENTIFIED BY 'password';
-GRANT ALL PRIVILEGES ON *.* TO 'harry'@'localhost' WITH GRANT OPTION;
+GRANT ALL PRIVILEGES ON *.* TO 'Atia'@'localhost' WITH GRANT OPTION;
 FLUSH PRIVILEGES;
 EXIT;
 ```
@@ -87,7 +87,7 @@ EXIT;
 ### Test the Login
 
 ```bash
-mysql -u harry -p
+mysql -u Atia -p
 ```
 
 > ⚠️ Always replace `'password'` with a strong, secure password in production.
