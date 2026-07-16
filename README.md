@@ -1,6 +1,6 @@
 # 🐬 Ultimate MySQL Handbook
 
-> Your complete guide to MySQL — from installation to advanced database management. This repository is a structured, hands-on reference covering everything from basic CRUD operations to stored procedures, triggers, and query optimization.
+> complete guide to MySQL — from installation to advanced database management. This repository is a structured, hands on reference covering everything from basic CRUD operations to stored procedures, triggers, and query optimization.
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge)
