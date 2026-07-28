@@ -977,6 +977,8 @@ If you want to master MySQL from beginner to advanced, I highly recommend the fo
 
 ---
 
+
+
 # 👨‍💻 Author
 
 **Atia Sanjida Oishi**
