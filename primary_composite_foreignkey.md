@@ -10,9 +10,6 @@
 
 # 📌 Table of Contents
 
-1. [Introduction](#-introduction)
-2. [Database Overview](#-database-overview)
-3. [Database Visualization](#-database-visualization)
 4. [Table Structure](#-table-structure)
 5. [Understanding Primary Key](#-understanding-primary-key)
 6. [Understanding Foreign Key](#-understanding-foreign-key)
