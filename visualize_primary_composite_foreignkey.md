@@ -1351,28 +1351,7 @@ Used to inspect the complete table definition, including constraints.
 
 ---
 
-# ✅ Conclusion
 
-The `ALTER TABLE` command provides a powerful way to modify existing database structures without recreating the tables.
-
-Through this lab, the practical implementation of:
-
-* Primary Key
-* Composite Primary Key
-* Foreign Key
-* Constraint creation
-* Constraint deletion
-* Column addition
-* Column renaming
-* Table renaming
-* Default values
-* Data insertion
-* Data updating
-* Data deletion
-* Table inspection
-* Table relationships
-
-has been practiced using MySQL.
 
 The most important relationship rule learned in this lab is:
 
