@@ -39,25 +39,6 @@
 
 ---
 
-# 🎯 Introduction
-
-This lab focuses on practicing the `ALTER TABLE` command in MySQL.
-
-The main objectives are:
-
-* Add Primary Key constraints.
-* Add Composite Primary Keys.
-* Add Foreign Key constraints.
-* Check existing Primary and Foreign Keys.
-* Drop Foreign Key constraints.
-* Drop Primary Key constraints.
-* Add and remove columns.
-* Rename tables.
-* Rename columns.
-* Set default values.
-* Insert, update and delete records.
-* Understand relationships between database tables.
-
 ---
 
 # 🗃️ Database Overview
