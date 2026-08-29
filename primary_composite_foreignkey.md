@@ -7,19 +7,6 @@
 
 ---
 
-## 📚 Lab Information
-
-| Information        | Details                                                          |
-| ------------------ | ---------------------------------------------------------------- |
-| **University**     | Bangladesh Army University of Engineering and Technology (BAUET) |
-| **Department**     | Information & Communication Engineering                          |
-| **Course Code**    | ICT – 3112                                                       |
-| **Course Title**   | Database Management System Lab                                   |
-| **Lab Report No.** | 4                                                                |
-| **Lab Title**      | Some Practices on ALTER TABLE Queries                            |
-| **DBMS**           | MySQL                                                            |
-
----
 
 # 📌 Table of Contents
 
